@@ -1,5 +1,5 @@
 # Contact-Me
-##THIS README HAS BEEN ADDED TO CLEAR THINGS UP, FOR THINGS CAN BE MISTAKEN.
+## THIS README HAS BEEN ADDED TO CLEAR THINGS UP, FOR THINGS CAN BE MISTAKEN.
 
 This is a repository containing an HTML file that redirects to a rickroll.
 
